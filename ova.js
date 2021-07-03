@@ -9273,20 +9273,20 @@ if (reversed == null) { reversed = false; }
 	new cjs.ButtonHelper(this.btn_reinicio, 0, 1, 2);
 
 	this.instance_23 = new lib.Path_0();
-	this.instance_23.setTransform(274.8,137.6,0.5807,0.5807,0,0,0,34.1,87.2);
+	this.instance_23.setTransform(274.8,137.6,0.5806,0.5806,0,0,0,34.1,87.2);
 	this.instance_23.alpha = 0.6016;
 
 	this.shape_281 = new cjs.Shape();
 	this.shape_281.graphics.f("#8AD31C").s().p("AmLD9IFBBbIktqtIGfCZIkgqoIGpAAIDbPnImiiTICrI0IlVhfIBkGgg");
-	this.shape_281.setTransform(271.387,137.3769,0.5807,0.5807);
+	this.shape_281.setTransform(271.3814,137.3737,0.5806,0.5806);
 
 	this.instance_24 = new lib.Path_1();
-	this.instance_24.setTransform(601.55,128,0.5807,0.5807,0,0,0,30.9,79.2);
+	this.instance_24.setTransform(601.55,128,0.5806,0.5806,0,0,0,30.9,79.2);
 	this.instance_24.alpha = 0.6016;
 
 	this.shape_282 = new cjs.Shape();
 	this.shape_282.graphics.f("#8AD31C").s().p("AloDmIElBTIkSpvIF6CLIkHprIGDAAIDHONIl8iGICcIBIk2hWIBaF7g");
-	this.shape_282.setTransform(598.4135,127.8831,0.5807,0.5807);
+	this.shape_282.setTransform(598.3993,127.8802,0.5806,0.5806);
 
 	this.shape_283 = new cjs.Shape();
 	this.shape_283.graphics.f("#8AD31C").s().p("Ag8BOIAAibIA0AAIAAByIBFAAIAAApg");
@@ -9500,7 +9500,7 @@ if (reversed == null) { reversed = false; }
 	this.shape_335.graphics.f("#FFFFFF").s().p("AAnBOIgKgbIg6AAIgLAbIg1AAIBEibIAzAAIBECbgAAOANIgOgmIgPAmIAdAAg");
 	this.shape_335.setTransform(338.275,110.525);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.instance_21,p:{y:-0.65,regY:0,x:1.6}},{t:this.btniniciarjuego},{t:this.shape_280},{t:this.shape_279},{t:this.shape_278},{t:this.shape_277},{t:this.shape_276},{t:this.shape_275},{t:this.shape_274},{t:this.shape_273},{t:this.shape_272},{t:this.shape_271},{t:this.shape_270},{t:this.shape_269},{t:this.shape_268},{t:this.shape_267},{t:this.shape_266},{t:this.shape_265},{t:this.shape_264},{t:this.shape_263},{t:this.shape_262},{t:this.shape_261},{t:this.shape_260},{t:this.shape_259},{t:this.shape_258},{t:this.shape_257},{t:this.shape_256},{t:this.shape_255},{t:this.shape_254},{t:this.shape_253}]},20).to({state:[{t:this.instance_21,p:{y:-0.5,regY:0,x:1.6}}]},5).to({state:[{t:this.instance_21,p:{y:-0.65,regY:0,x:1.6}},{t:this.instance_22,p:{x:47}}]},5).to({state:[{t:this.instance_21,p:{y:-0.65,regY:0,x:1.6}},{t:this.btn_reinicio},{t:this.btn_menu},{t:this.derrota}]},5).to({state:[{t:this.instance_21,p:{y:-0.65,regY:0,x:1.6}}]},5).to({state:[{t:this.instance_21,p:{y:-0.65,regY:0,x:1.6}},{t:this.instance_22,p:{x:52}}]},5).to({state:[{t:this.instance_21,p:{y:-0.65,regY:0,x:1.6}}]},4).to({state:[{t:this.instance_21,p:{y:-0.65,regY:0,x:1.6}},{t:this.instance_22,p:{x:54}}]},5).to({state:[{t:this.instance_21,p:{y:-0.7,regY:-0.1,x:2.05}},{t:this.shape_335},{t:this.shape_334},{t:this.shape_333},{t:this.shape_332},{t:this.shape_331},{t:this.shape_330},{t:this.shape_329},{t:this.shape_328},{t:this.shape_327},{t:this.shape_326},{t:this.shape_325},{t:this.shape_324},{t:this.shape_323},{t:this.shape_322},{t:this.shape_321},{t:this.shape_320},{t:this.shape_319},{t:this.shape_318},{t:this.shape_317},{t:this.shape_316},{t:this.shape_315},{t:this.shape_314},{t:this.shape_313},{t:this.shape_312},{t:this.shape_311},{t:this.shape_310},{t:this.shape_309},{t:this.shape_308},{t:this.shape_307},{t:this.shape_306},{t:this.shape_305},{t:this.shape_304},{t:this.shape_303},{t:this.shape_302},{t:this.shape_301},{t:this.shape_300},{t:this.shape_299},{t:this.shape_298},{t:this.shape_297},{t:this.shape_296},{t:this.shape_295},{t:this.shape_294},{t:this.shape_293},{t:this.shape_292},{t:this.shape_291},{t:this.shape_290},{t:this.shape_289},{t:this.shape_288},{t:this.shape_287},{t:this.shape_286},{t:this.shape_285},{t:this.shape_284},{t:this.shape_283},{t:this.shape_282},{t:this.instance_24},{t:this.shape_281},{t:this.instance_23}]},5).to({state:[]},5).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[]}).to({state:[{t:this.instance_21,p:{y:-0.65,regY:0,x:1.6}},{t:this.btniniciarjuego},{t:this.shape_280},{t:this.shape_279},{t:this.shape_278},{t:this.shape_277},{t:this.shape_276},{t:this.shape_275},{t:this.shape_274},{t:this.shape_273},{t:this.shape_272},{t:this.shape_271},{t:this.shape_270},{t:this.shape_269},{t:this.shape_268},{t:this.shape_267},{t:this.shape_266},{t:this.shape_265},{t:this.shape_264},{t:this.shape_263},{t:this.shape_262},{t:this.shape_261},{t:this.shape_260},{t:this.shape_259},{t:this.shape_258},{t:this.shape_257},{t:this.shape_256},{t:this.shape_255},{t:this.shape_254},{t:this.shape_253}]},20).to({state:[{t:this.instance_21,p:{y:-0.5,regY:0,x:1.6}}]},5).to({state:[{t:this.instance_21,p:{y:-0.65,regY:0,x:1.6}},{t:this.instance_22,p:{x:47}}]},5).to({state:[{t:this.instance_21,p:{y:-0.65,regY:0,x:1.6}},{t:this.btn_reinicio},{t:this.btn_menu},{t:this.derrota}]},5).to({state:[{t:this.instance_21,p:{y:-0.65,regY:0,x:1.6}}]},5).to({state:[{t:this.instance_21,p:{y:-0.65,regY:0,x:1.6}},{t:this.instance_22,p:{x:52}}]},5).to({state:[{t:this.instance_21,p:{y:-0.65,regY:0,x:1.6}}]},4).to({state:[{t:this.instance_21,p:{y:-0.65,regY:0,x:1.6}},{t:this.instance_22,p:{x:54}}]},5).to({state:[{t:this.instance_21,p:{y:-0.7,regY:-0.1,x:1.05}},{t:this.shape_335},{t:this.shape_334},{t:this.shape_333},{t:this.shape_332},{t:this.shape_331},{t:this.shape_330},{t:this.shape_329},{t:this.shape_328},{t:this.shape_327},{t:this.shape_326},{t:this.shape_325},{t:this.shape_324},{t:this.shape_323},{t:this.shape_322},{t:this.shape_321},{t:this.shape_320},{t:this.shape_319},{t:this.shape_318},{t:this.shape_317},{t:this.shape_316},{t:this.shape_315},{t:this.shape_314},{t:this.shape_313},{t:this.shape_312},{t:this.shape_311},{t:this.shape_310},{t:this.shape_309},{t:this.shape_308},{t:this.shape_307},{t:this.shape_306},{t:this.shape_305},{t:this.shape_304},{t:this.shape_303},{t:this.shape_302},{t:this.shape_301},{t:this.shape_300},{t:this.shape_299},{t:this.shape_298},{t:this.shape_297},{t:this.shape_296},{t:this.shape_295},{t:this.shape_294},{t:this.shape_293},{t:this.shape_292},{t:this.shape_291},{t:this.shape_290},{t:this.shape_289},{t:this.shape_288},{t:this.shape_287},{t:this.shape_286},{t:this.shape_285},{t:this.shape_284},{t:this.shape_283},{t:this.shape_282},{t:this.instance_24},{t:this.shape_281},{t:this.instance_23}]},5).to({state:[]},5).wait(1));
 
 	// instrucciones
 	this.btn_cancelar = new lib.btn_cancelar();
@@ -10233,7 +10233,7 @@ if (reversed == null) { reversed = false; }
 	this.shape_497.setTransform(512.5234,41.225);
 
 	this.shape_498 = new cjs.Shape();
-	this.shape_498.graphics.f().s("#FFFFFF").p("AA4BiIhxAAIgVA1IhnAAICEktIBjAAICEEtIhqAAgAAcAZIgchLIgdBLg");
+	this.shape_498.graphics.f().s("#FFFFFF").p("AAcAZIgchLIgdBLgAA4BiIhxAAIgVA1IhnAAICEktIBjAAICEEtIhqAAg");
 	this.shape_498.setTransform(465.1,41.225);
 
 	this.shape_499 = new cjs.Shape();
@@ -10253,7 +10253,7 @@ if (reversed == null) { reversed = false; }
 	this.shape_502.setTransform(323.325,41.225);
 
 	this.shape_503 = new cjs.Shape();
-	this.shape_503.graphics.f().s("#FFFFFF").p("AA4BiIhxAAIgUA1IhoAAICEktIBjAAICEEtIhpAAgAAcAZIgchLIgdBLg");
+	this.shape_503.graphics.f().s("#FFFFFF").p("AAcAZIgchLIgdBLgAA4BiIhxAAIgUA1IhoAAICEktIBjAAICEEtIhpAAg");
 	this.shape_503.setTransform(293.3756,41.225);
 
 	this.shape_504 = new cjs.Shape();
@@ -10261,7 +10261,7 @@ if (reversed == null) { reversed = false; }
 	this.shape_504.setTransform(260.8891,41.2);
 
 	this.shape_505 = new cjs.Shape();
-	this.shape_505.graphics.f().s("#FFFFFF").p("AAMjIIBcAAIhVBFIg/AAgAipArQAAhDAwgtQAwgsBJAAQBKAAAwAsQAwAtAABDQAABFgwAsQgwAthKAAQhJAAgwgtQgwgsAAhFgABEArQAAgigUgUQgTgUgdAAQgcAAgTAUQgUAUAAAiQAAAjAUAVQATAUAcAAQAdAAATgUQAUgVAAgjg");
+	this.shape_505.graphics.f().s("#FFFFFF").p("AAMjIIBcAAIhVBFIg/AAgABEArQAAgigUgUQgTgUgdAAQgcAAgTAUQgUAUAAAiQAAAjAUAVQATAUAcAAQAdAAATgUQAUgVAAgjgAipArQAAhDAwgtQAwgsBJAAQBKAAAwAsQAwAtAABDQAABFgwAsQgwAthKAAQhJAAgwgtQgwgsAAhFg");
 	this.shape_505.setTransform(226.125,36.875);
 
 	this.shape_506 = new cjs.Shape();
@@ -10376,11 +10376,11 @@ if (reversed == null) { reversed = false; }
 	this.instance_40.setTransform(119,-15);
 
 	this.shape_533 = new cjs.Shape();
-	this.shape_533.graphics.f().s("#FFFFFF").p("AAcAZIgchLIgdBLgAA4BiIhxAAIgVA1IhnAAICEktIBjAAICEEtIhqAAg");
+	this.shape_533.graphics.f().s("#FFFFFF").p("AA4BiIhxAAIgVA1IhnAAICEktIBjAAICEEtIhqAAgAAcAZIgchLIgdBLg");
 	this.shape_533.setTransform(465.1,41.225);
 
 	this.shape_534 = new cjs.Shape();
-	this.shape_534.graphics.f().s("#FFFFFF").p("AAcAZIgchLIgdBLgAA4BiIhxAAIgUA1IhoAAICEktIBjAAICEEtIhpAAg");
+	this.shape_534.graphics.f().s("#FFFFFF").p("AA4BiIhxAAIgUA1IhoAAICEktIBjAAICEEtIhpAAgAAcAZIgchLIgdBLg");
 	this.shape_534.setTransform(293.3756,41.225);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_35},{t:this.instance_34},{t:this.shape_486},{t:this.instance_33},{t:this.shape_485},{t:this.instance_32},{t:this.shape_484},{t:this.shape_483},{t:this.shape_482},{t:this.shape_481},{t:this.shape_480},{t:this.shape_479},{t:this.shape_478},{t:this.shape_477},{t:this.shape_476},{t:this.shape_475},{t:this.shape_474},{t:this.shape_473},{t:this.shape_472},{t:this.shape_471},{t:this.shape_470},{t:this.shape_469},{t:this.shape_468},{t:this.shape_467},{t:this.shape_466},{t:this.shape_465},{t:this.shape_464},{t:this.shape_463},{t:this.shape_462},{t:this.shape_461},{t:this.shape_460},{t:this.shape_459},{t:this.shape_458},{t:this.shape_457},{t:this.shape_456},{t:this.instance_31}]}).to({state:[{t:this.instance_35},{t:this.instance_34},{t:this.shape_486},{t:this.instance_33},{t:this.shape_485},{t:this.instance_32},{t:this.shape_484},{t:this.shape_483},{t:this.shape_482},{t:this.shape_481},{t:this.shape_480},{t:this.shape_479},{t:this.shape_478},{t:this.shape_477},{t:this.shape_476},{t:this.shape_475},{t:this.shape_474},{t:this.shape_473},{t:this.shape_472},{t:this.shape_471},{t:this.shape_470},{t:this.shape_469},{t:this.shape_468},{t:this.shape_467},{t:this.shape_466},{t:this.shape_465},{t:this.shape_464},{t:this.shape_463},{t:this.shape_462},{t:this.shape_461},{t:this.shape_460},{t:this.shape_459},{t:this.shape_458},{t:this.shape_457},{t:this.shape_456},{t:this.clipsonido},{t:this.instance_31}]},6).to({state:[{t:this.instance_35},{t:this.instance_34},{t:this.instance_40},{t:this.shape_532},{t:this.shape_531},{t:this.shape_530},{t:this.shape_529},{t:this.shape_528},{t:this.shape_527},{t:this.shape_526},{t:this.shape_525},{t:this.shape_524},{t:this.shape_523},{t:this.shape_522},{t:this.shape_521},{t:this.shape_520},{t:this.shape_519},{t:this.shape_518},{t:this.shape_517},{t:this.shape_516},{t:this.shape_515},{t:this.shape_514},{t:this.shape_513},{t:this.shape_512},{t:this.shape_511},{t:this.shape_510},{t:this.shape_509},{t:this.shape_508},{t:this.shape_507},{t:this.shape_506},{t:this.shape_505},{t:this.shape_504},{t:this.shape_503},{t:this.shape_502},{t:this.shape_501},{t:this.shape_500},{t:this.shape_499},{t:this.shape_498},{t:this.shape_497},{t:this.shape_496},{t:this.shape_495},{t:this.shape_494},{t:this.instance_39},{t:this.shape_493},{t:this.instance_38},{t:this.shape_492},{t:this.instance_37},{t:this.shape_491},{t:this.shape_486},{t:this.instance_33},{t:this.shape_485},{t:this.instance_32},{t:this.instance_36},{t:this.shape_490},{t:this.shape_489},{t:this.shape_488},{t:this.shape_487},{t:this.shape_484},{t:this.shape_483},{t:this.shape_482},{t:this.shape_481},{t:this.shape_480},{t:this.shape_479},{t:this.shape_478},{t:this.shape_477},{t:this.shape_476},{t:this.shape_475},{t:this.shape_474},{t:this.shape_473},{t:this.shape_472},{t:this.shape_471},{t:this.shape_470},{t:this.shape_469},{t:this.shape_468},{t:this.shape_467},{t:this.shape_466},{t:this.shape_465},{t:this.shape_464},{t:this.shape_463},{t:this.shape_462},{t:this.shape_461},{t:this.shape_460},{t:this.shape_459},{t:this.shape_458},{t:this.shape_457},{t:this.shape_456}]},4).to({state:[{t:this.instance_35},{t:this.instance_34},{t:this.instance_40},{t:this.shape_532},{t:this.shape_531},{t:this.shape_530},{t:this.shape_529},{t:this.shape_528},{t:this.shape_527},{t:this.shape_526},{t:this.shape_525},{t:this.shape_524},{t:this.shape_523},{t:this.shape_522},{t:this.shape_521},{t:this.shape_520},{t:this.shape_519},{t:this.shape_518},{t:this.shape_517},{t:this.shape_516},{t:this.shape_515},{t:this.shape_514},{t:this.shape_513},{t:this.shape_512},{t:this.shape_511},{t:this.shape_510},{t:this.shape_509},{t:this.shape_508},{t:this.shape_507},{t:this.shape_506},{t:this.shape_505},{t:this.shape_504},{t:this.shape_534},{t:this.shape_502},{t:this.shape_501},{t:this.shape_500},{t:this.shape_499},{t:this.shape_533},{t:this.shape_497},{t:this.shape_496},{t:this.shape_495},{t:this.shape_494},{t:this.instance_39},{t:this.shape_493},{t:this.instance_38},{t:this.shape_492},{t:this.instance_37},{t:this.shape_491},{t:this.shape_486},{t:this.instance_33},{t:this.shape_485},{t:this.instance_32},{t:this.instance_36},{t:this.shape_490},{t:this.shape_489},{t:this.shape_488},{t:this.shape_487},{t:this.shape_484},{t:this.shape_483},{t:this.shape_482},{t:this.shape_481},{t:this.shape_480},{t:this.shape_479},{t:this.shape_478},{t:this.shape_477},{t:this.shape_476},{t:this.shape_475},{t:this.shape_474},{t:this.shape_473},{t:this.shape_472},{t:this.shape_471},{t:this.shape_470},{t:this.shape_469},{t:this.shape_468},{t:this.shape_467},{t:this.shape_466},{t:this.shape_465},{t:this.shape_464},{t:this.shape_463},{t:this.shape_462},{t:this.shape_461},{t:this.shape_460},{t:this.shape_459},{t:this.shape_458},{t:this.shape_457},{t:this.shape_456}]},5).to({state:[]},5).to({state:[]},5).wait(40));
@@ -10388,7 +10388,7 @@ if (reversed == null) { reversed = false; }
 	this._renderFirstFrame();
 
 }).prototype = p = new lib.AnMovieClip();
-p.nominalBounds = new cjs.Rectangle(0,0,907.6,519);
+p.nominalBounds = new cjs.Rectangle(0,0,907.2,519);
 // library properties:
 lib.properties = {
 	id: '9A657ABE8607EB4CB24CDEC9E7CAC9B6',
@@ -10398,14 +10398,14 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/ova_atlas_1.png", id:"ova_atlas_1"},
-		{src:"sounds/Abucheo.mp3", id:"Abucheo"},
-		{src:"sounds/Bajo.mp3", id:"Bajo"},
-		{src:"sounds/Batería.mp3", id:"Batería"},
-		{src:"sounds/Fondomenu.mp3", id:"Fondomenu"},
-		{src:"sounds/Guitarra.mp3", id:"Guitarra"},
-		{src:"sounds/Rayitos.mp3", id:"Rayitos"},
-		{src:"sounds/ScratchingTeethJHSPedals.mp3", id:"ScratchingTeethJHSPedals"}
+		{src:"images/ova_atlas_1.png?1625272436154", id:"ova_atlas_1"},
+		{src:"sounds/Abucheo.mp3?1625272436495", id:"Abucheo"},
+		{src:"sounds/Bajo.mp3?1625272436495", id:"Bajo"},
+		{src:"sounds/Batería.mp3?1625272436495", id:"Batería"},
+		{src:"sounds/Fondomenu.mp3?1625272436495", id:"Fondomenu"},
+		{src:"sounds/Guitarra.mp3?1625272436495", id:"Guitarra"},
+		{src:"sounds/Rayitos.mp3?1625272436495", id:"Rayitos"},
+		{src:"sounds/ScratchingTeethJHSPedals.mp3?1625272436495", id:"ScratchingTeethJHSPedals"}
 	],
 	preloads: []
 };
